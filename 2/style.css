@@ -1,0 +1,28 @@
+h1 {
+    color: #000;
+    font-family: 'Courier New';
+    }
+    
+    #paragraph1 {
+    color: blueviolet;
+    background-color: steelblue;
+    }
+    
+    p.content {
+    color: aqua;
+    }
+    
+    * {
+    font-family: sans-serif;
+    }
+    
+    p, a {
+    font-size: 12px;
+    }
+    
+    body {
+    background-color: #fffb00;
+    background-image: url("photo_2020-06-04_09-31-24.jpg");
+    background-size: 100vw 100vh;
+    background-repeat: repeat;
+    }
