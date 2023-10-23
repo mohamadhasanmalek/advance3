@@ -9,6 +9,9 @@ a {
 nav ul {
     list-style-type: none;
 }
+.logo {
+    color: white;
+}
 .hero-image {
     position: absolute;
     top: 0;
